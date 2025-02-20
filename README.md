@@ -49,7 +49,7 @@ A decentralized peer-to-peer lending protocol built on Aptos blockchain, featuri
     
 ## vedio
 https://www.canva.com/design/DAGfmUW7e8A/cFZnvPIJs03GXO0wxpLRDg/edit?utm_content=DAGfmUW7e8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+https://photos.google.com/photo/AF1QipN2DMeBECm75JJ1qxXynD72Hk5OWNuj6GszO5rP
 
 ## Core Features
 
