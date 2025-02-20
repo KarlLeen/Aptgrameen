@@ -1,0 +1,12 @@
+[package]
+name = "aml"
+version = "0.0.1"
+authors = ["AML Team"]
+
+[addresses]
+aml = "0x7921f7e9342c39d58dc627c73ae224380d877b9a838d9b7fba82f8fbde135821"
+aptgrameen = "0x7921f7e9342c39d58dc627c73ae224380d877b9a838d9b7fba82f8fbde135821"
+apl = "0x7921f7e9342c39d58dc627c73ae224380d877b9a838d9b7fba82f8fbde135821"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "aptos-node-v1.5.0" }
