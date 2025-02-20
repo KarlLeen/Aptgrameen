@@ -48,7 +48,7 @@ A decentralized peer-to-peer lending protocol built on Aptos blockchain, featuri
  
     
 ## vedio
-https://www.canva.com/design/DAGfmUW7e8A/cFZnvPIJs03GXO0wxpLRDg/edit?utm_content=DAGfmUW7e8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://drive.google.com/file/d/1PMm-RGJaXs35-ciy1P2v9qXGAGxJq08n/view?usp=sharing
 [https://photos.google.com/photo/AF1QipN2DMeBECm75JJ1qxXynD72Hk5OWNuj6GszO5rP](https://photos.google.com/photo/AF1QipPgePhyzBKHuvx2eo7XDmPkXx4kkGtyaTyu9aWH)
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/49841023-f552-4858-9793-d6ad3ac24bdb" />
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/1d5ccbf0-f82c-40a7-a944-0a5e35a878f9" />
