@@ -1,4 +1,4 @@
-# Aptgrameen
+# Aptgrameen v0.1
 
 A decentralized peer-to-peer lending protocol built on Aptos blockchain, featuring advanced Merkle-based trading mechanisms, Move Agent Kit, SBT-based credit scoring, and AI-powered credit assessment.
 
